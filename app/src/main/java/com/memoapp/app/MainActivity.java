@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.Date;
 
 public class MainActivity extends AppCompatActivity {
-    /*MainData 클래스를 저장하는 ArrayList 형태의 arrayList 선언*/
+    /*MainData 클래스를 저장하는 ArrayList 형태의 arrayList 선언.*/
     private ArrayList<MainData> arrayList;
     /*arrayList와 recyclerView 사이의 데이터를 이어주는 역할을 하는 MainAdapter 클래스의 참조 변수
     * mainAdapter 선언*/
